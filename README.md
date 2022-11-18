@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sxmirv
-- 👀 I’m interested in developing myself in backend programming
+- 👀 I’m interested in developing myself as a backend programmer
 - 🌱 I’m currently learning Python, Java, MySql, HTML, CSS, JavaScript and PHP
 - ✨ My hobby is playing and listening to music 
 - 🎯 I want to study Computer Science and work in the field
